@@ -1,0 +1,23 @@
+{
+  "name": "waffel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bintangadinandra/waffel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bintangadinandra/waffel/issues"
+  },
+  "homepage": "https://github.com/bintangadinandra/waffel#readme",
+  "devDependencies": {
+    "lerna": "^3.14.1",
+    "mocha": "^6.1.4"
+  }
+}
